@@ -1,5 +1,5 @@
 ---
-{"database-plugin":"basic","dg-publish":true,"permalink":"/联系人/Untitled database/","dgPassFrontmatter":true,"created":"2024-09-15T20:12:44.447+08:00","updated":"2024-09-15T20:14:23.366+08:00"}
+{"database-plugin":"basic","dg-publish":true,"permalink":"/联系人/Untitled database/","dgPassFrontmatter":true,"created":"2024-09-15T20:12:44.447+08:00","updated":"2024-09-15T20:15:56.256+08:00"}
 ---
 
 
