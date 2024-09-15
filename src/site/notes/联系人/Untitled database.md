@@ -1,5 +1,5 @@
 ---
-{"database-plugin":"basic","dg-publish":true,"permalink":"/联系人/Untitled database/","dgPassFrontmatter":true,"created":"2024-09-15T20:12:44.447+08:00","updated":"2024-09-15T20:15:56.256+08:00"}
+{"database-plugin":"basic","dg-publish":true,"permalink":"/联系人/Untitled database/","dgPassFrontmatter":true,"created":"2024-09-15T20:12:44.447+08:00","updated":"2024-09-15T20:17:06.978+08:00"}
 ---
 
 
@@ -130,12 +130,13 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 158
     config:
       enable_media_view: true
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
       footer_type: none
       persist_changes: false
